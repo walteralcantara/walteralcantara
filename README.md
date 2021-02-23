@@ -15,7 +15,8 @@
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wmalcantara&theme=tokyonight&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wmalcantara&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wmalcantara&langs_count=6&exclude_repo=caravan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **wmalcantara/wmalcantara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
