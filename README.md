@@ -5,7 +5,7 @@
 - 🎓 Studying System Analysis and Development at Federal Institute of São Paulo.
 - ⚡ Fun fact: I draw and play violin.
 
-<img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"> <img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+<img width="30" src="/assets/html.png"><img width="30" src="/assets/css.png"><img width="30" src="/assets/javascript.png"><img width="30" src="/assets/bootstrap.png"><img width="30" src="/assets/sass.png"><img width="30" src="/assets/react.png"><img width="30" src="/assets/git.png"><img width="30" src="/assets/terminal.png"><img width="30" src="/assets/linux.png"><img width="30" src="/assets/figma.png"><img width="30" src="/assets/photoshop.png"><img width="30" src="/assets/adobexd.png">
 
 ### 📫 You can reach me on:
 
