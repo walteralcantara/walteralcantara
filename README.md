@@ -1,7 +1,7 @@
  Hi there, I'm Walter 👋
 ---
 
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React, Next.js and TypeScript.
 - 🎓 Studying System Analysis and Development at Federal Institute of São Paulo.
 - 🔭 I’m currently working at <a href="https://enext.com.br/" target="_blank">Enext<a/>, as a Front-end Intern.
 - ⚡ Fun fact: I draw and play violin.
