@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning React, Redux and TypeScript.
 - 🎓 Studying System Analysis and Development at Federal Institute of São Paulo.
-- 🔭 I’m currently working at <a href="https://www.corebiz.ag/pt/" target="_blank">Corebiz.<a/>, as a Jr Front-end Developer.
+- 🔭 I’m currently working at <a href="https://www.corebiz.ag/pt/" target="_blank">Corebiz.<a/>, as a Front-end Developer.
 - ⚡ Fun fact: I draw and play violin.
 
 <div style="display:flex;" >
