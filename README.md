@@ -1,10 +1,22 @@
 ## Hi there, I'm Walter 👋
 
-- 🌱 I’m currently learning React, Redux and TypeScript.
-- 🎓 Studying System Analysis and Development at Federal Institute of São Paulo.
-- 🔭 I’m currently working at <a href="https://www.corebiz.ag/pt/" target="_blank">Corebiz.<a/>, as a Front-end Developer.
-- ⚡ Fun fact: I draw and play violin.
-
+<div align="left">
+  <a href="https://app.daily.dev/walteralcantara" target="_blank">
+    <img 
+         src="https://api.daily.dev/devcards/d5ad2ab9870a485db5f603325e36047b.png?r=0kh"
+         width="256"
+         align="right"
+         alt="Walter Alcantara's Dev Card"
+    />
+  </a>
+  
+  <p>- 🎓 Studying System Analysis and Development at Federal Institute of São Paulo.</p>
+  <p>- 🔭 I’m currently working at <a href="https://www.corebiz.ag/pt/" target="_blank">Corebiz.<a/>, as a Front-end Developer.</p>
+  <p>- ⚡ I play violin.</p>
+  
+  
+</div>
+  
 <div style="display:flex;" >
   <img width="30" src="/assets/html.png">
   <img width="30" src="/assets/css.png">
@@ -30,7 +42,7 @@
 </div>
 
 ### 📫 You can reach me on:
-
+##
 <div>
   <a href="https://www.linkedin.com/in/walteralcantara/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
