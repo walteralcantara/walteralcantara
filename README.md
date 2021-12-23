@@ -21,19 +21,15 @@
   <img width="30" src="/assets/html.png">
   <img width="30" src="/assets/css.png">
   <img width="30" src="/assets/javascript.png">
-  <img width="30" src="/assets/bootstrap.png">
   <img width="30" src="/assets/sass.png">
   <img width="30" src="/assets/react.png">
   <img width="30" src="/assets/redux.png">
   <img width="30" src="/assets/styled-components.png">
   <img width="30" src="/assets/typescript.png">
   <img width="30" src="/assets/git.png">
-  <img width="30" src="/assets/GSAP.png">
   <img width="30" src="/assets/terminal.png">
   <img width="30" src="/assets/linux.png">
   <img width="30" src="/assets/figma.png">
-  <img width="30" src="/assets/photoshop.png">
-  <img width="30" src="/assets/adobexd.png">
   <img width="30" src="/assets/npm.png">
   <img width="30" src="/assets/yarn.png">
   <img width="30" src="/assets/framer.png">
