@@ -34,7 +34,7 @@
   <img width="30" src="/assets/yarn.png">
   <img width="30" src="/assets/framer.png">
   <img width="30" src="/assets/next.png">
-  <img width="30" src="/assets/jquery.png">
+  <img width="30" src="/assets/graphql.png">
 </div>
 
 ### 📫 You can reach me on:
