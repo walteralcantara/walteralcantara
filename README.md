@@ -7,10 +7,8 @@
          alt="Walter Alcantara's Dev Card"
     />
   </a>
-  
   <p> Hey there, I'm Walter 👋. I'm a Frontend Engineer at Corebiz (remote position).</p>
   <p> A fun fact: I play violin 🎻</p>
-    
 </div>
   
 <div style="display:flex;" >
@@ -44,8 +42,13 @@
   </a>
 </div>
 
+<br />
+<br />
+<br />
+
+
 ##
-<div align="center">
+<div style="display: flex;" align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walteralcantara&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walteralcantara&langs_count=16&exclude_repo=caravan,spider-man-miles-morales&layout=compact&theme=dracula" />
 </div>
