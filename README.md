@@ -1,5 +1,3 @@
-## Hi there, I'm Walter 👋
-
 <div align="left">
   <a href="https://app.daily.dev/walteralcantara" target="_blank">
     <img 
@@ -10,11 +8,9 @@
     />
   </a>
   
-  <p>- 🎓 Studying System Analysis and Development at Federal Institute of São Paulo.</p>
-  <p>- 🔭 I’m currently working at <a href="https://www.corebiz.ag/pt/" target="_blank">Corebiz.<a/>, as a Front-end Developer.</p>
-  <p>- ⚡ I play violin.</p>
-  
-  
+  <p> Hey there, I'm Walter 👋. I'm a Frontend Engineer at Corebiz (remote position).</p>
+  <p> A fun fact: I play violin 🎻</p>
+    
 </div>
   
 <div style="display:flex;" >
@@ -37,8 +33,8 @@
   <img width="30" src="/assets/graphql.png">
 </div>
 
-### 📫 You can reach me on:
 ##
+<p>📫 You can reach me on:</p>
 <div>
   <a href="https://www.linkedin.com/in/walteralcantara/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
