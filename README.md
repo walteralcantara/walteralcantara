@@ -15,20 +15,32 @@
   <img width="30" src="/assets/html.png">
   <img width="30" src="/assets/css.png">
   <img width="30" src="/assets/javascript.png">
-  <img width="30" src="/assets/sass.png">
+  <img width="30" src="/assets/git.png">
   <img width="30" src="/assets/react.png">
   <img width="30" src="/assets/redux.png">
-  <img width="30" src="/assets/styled-components.png">
   <img width="30" src="/assets/typescript.png">
-  <img width="30" src="/assets/git.png">
+  <img width="30" src="/assets/styled-components.png">
+  <img width="30" src="/assets/sass.png">
+  <img width="30" src="/assets/next.png">
+  <img width="30" src="/assets/framer.png">
+  <img width="30" src="/assets/nodejs.png">
+  <img width="30" src="/assets/expressjs.png">
+  <img width="30" src="/assets/mongodb.png">
+  <img width="30" src="/assets/postgresql.png">
+  <img width="30" src="/assets/firebase.png">
+  <img width="30" src="/assets/graphql.png">
+  <img width="30" src="/assets/apollo.png">
+  <img width="30" src="/assets/webpack.png">
+  <img width="30" src="/assets/tailwind.png">
+  <img width="30" src="/assets/cypress.png">
+  <img width="30" src="/assets/jest.png">
+  <img width="30" src="/assets/rtl.png">
+  <img width="30" src="/assets/storybook.png">  
   <img width="30" src="/assets/terminal.png">
   <img width="30" src="/assets/linux.png">
   <img width="30" src="/assets/figma.png">
   <img width="30" src="/assets/npm.png">
   <img width="30" src="/assets/yarn.png">
-  <img width="30" src="/assets/framer.png">
-  <img width="30" src="/assets/next.png">
-  <img width="30" src="/assets/graphql.png">
 </div>
 
 ##
