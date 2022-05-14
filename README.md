@@ -52,6 +52,11 @@
   <a href="mailto:waltermalcantara@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
+  
+  <br />
+  <br />
+  
+  ![Walter](https://komarev.com/ghpvc/?username=walteralcantara&color=blueviolet)
 </div>
 
 <br />
@@ -64,9 +69,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walteralcantara&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walteralcantara&langs_count=16&exclude_repo=caravan,spider-man-miles-morales&layout=compact&theme=dracula" />
 </div>
-  
-<!--  
-  -
-  -
-  -
--->
