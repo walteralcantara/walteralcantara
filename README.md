@@ -7,8 +7,8 @@
          alt="Walter Alcantara's Dev Card"
     />
   </a>
-  <p> Hey there, I'm Walter 👋. I'm a Frontend Engineer at Corebiz (remote position).</p>
-  <p> A fun fact: I play violin 🎻</p>
+  
+  <p> Hey there, I'm Walter 👋. I'm a Frontend Engineer at SomaLabs (remote position).</p>
 </div>
   
 <div style="display:flex;" >
