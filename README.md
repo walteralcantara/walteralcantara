@@ -4,7 +4,7 @@
     <img src="https://api.daily.dev/devcards/v2/8vWxv5_tfP.png?r=7kd&type=default" width="300" alt="Walter Alcantara's Dev Card"/>
   </a>
   
-  <p align="right"> Hey there, I'm Walter 👋. I'm a Frontend Engineer at SomaLabs (remote position).</p>
+  <p align="right"> Hey there, I'm Walter 👋. I'm a Software Engineer at Rede D'or São Luiz (remote position).</p>
 </div>
   
 <div style="display:flex;" >
