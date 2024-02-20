@@ -1,11 +1,6 @@
 <div align="left">
   <a href="https://app.daily.dev/walteralcantara" target="_blank">
-    <img 
-         src="https://api.daily.dev/devcards/d5ad2ab9870a485db5f603325e36047b.png?r=0kh"
-         width="256"
-         align="right"
-         alt="Walter Alcantara's Dev Card"
-    />
+    <a href="https://app.daily.dev/walteralcantara"><img src="https://api.daily.dev/devcards/v2/8vWxv5_tfP.png?r=7kd&type=default" width="356" alt="Walter Alcantara's Dev Card"/></a>
   </a>
   
   <p> Hey there, I'm Walter 👋. I'm a Frontend Engineer at SomaLabs (remote position).</p>
