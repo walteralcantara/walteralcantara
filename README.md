@@ -1,9 +1,10 @@
-<div align="left">
-  <a href="https://app.daily.dev/walteralcantara" target="_blank">
-    <a href="https://app.daily.dev/walteralcantara"><img src="https://api.daily.dev/devcards/v2/8vWxv5_tfP.png?r=7kd&type=default" width="356" alt="Walter Alcantara's Dev Card"/></a>
+<div>
+  
+  <a href="https://app.daily.dev/walteralcantara">
+    <img src="https://api.daily.dev/devcards/v2/8vWxv5_tfP.png?r=7kd&type=default" width="300" alt="Walter Alcantara's Dev Card"/>
   </a>
   
-  <p> Hey there, I'm Walter 👋. I'm a Frontend Engineer at SomaLabs (remote position).</p>
+  <p align="right"> Hey there, I'm Walter 👋. I'm a Frontend Engineer at SomaLabs (remote position).</p>
 </div>
   
 <div style="display:flex;" >
