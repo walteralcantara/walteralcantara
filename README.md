@@ -1,12 +1,7 @@
-<div>
-  
-  <a href="https://app.daily.dev/walteralcantara">
-    <img src="https://api.daily.dev/devcards/v2/8vWxv5_tfP.png?r=7kd&type=default" width="300" alt="Walter Alcantara's Dev Card"/>
-  </a>
-  
-  <p align="right"> Hey there, I'm Walter 👋. I'm a Software Engineer at Rede D'or São Luiz (remote position).</p>
-</div>
-  
+<p align="center"> Hey there 👋, I'm Walter. I'm a Software Engineer.</p>
+
+![Walter](https://komarev.com/ghpvc/?username=walteralcantara&color=blueviolet)
+## 👨‍💻 Skills
 <div style="display:flex;" >
   <img width="30" src="/assets/html.png">
   <img width="30" src="/assets/css.png">
@@ -39,28 +34,17 @@
   <img width="30" src="/assets/yarn.png">
 </div>
 
-##
-<p>📫 You can reach me on:</p>
-<div>
+## 📫 You can reach me on:
+<div align="center">
   <a href="https://www.linkedin.com/in/walteralcantara/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
+  </a>
   <a href="mailto:waltermalcantara@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  
-  <br />
-  <br />
-  
-  ![Walter](https://komarev.com/ghpvc/?username=walteralcantara&color=blueviolet)
 </div>
 
-<br />
-<br />
-<br />
-
-
-##
+## 📊 GitHub Stats
 <div style="display: flex;" align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walteralcantara&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walteralcantara&langs_count=16&exclude_repo=caravan,spider-man-miles-morales&layout=compact&theme=dracula" />
