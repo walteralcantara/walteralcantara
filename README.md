@@ -43,9 +43,3 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
-
-## 📊 GitHub Stats
-<div style="display: flex;" align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walteralcantara&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walteralcantara&langs_count=16&exclude_repo=caravan,spider-man-miles-morales&layout=compact&theme=dracula" />
-</div>
